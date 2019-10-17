@@ -1,0 +1,1 @@
+The nPose NC reader is a multiple purpose caching notecard reader for nPose. It is used on each DOPOSE and DOACTION link message. If you are writing a plugin, it could also be used for your own purposes. See [[NC-Reader-Link-messages]]

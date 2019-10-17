@@ -1,0 +1,8 @@
+- [Prop Plugin](https://github.com/HowardBaxton/Prop-Plugin)
+- [Temp Attach Plugin](https://github.com/HowardBaxton/Temp-Attach-Plugin)
+- [nPose LM/LG chains plugin](https://github.com/LeonaMorro/nPose-LM-LG-chains-plugin)
+- [nPose RLV+ plugin](https://github.com/LeonaMorro/nPose-RLV-Plugin)
+- [nPose AccessControlList](https://github.com/LeonaMorro/nPose-AccessControlList-plugin)
+- [nPose Xcite plugin](https://github.com/LeonaMorro/nPose-Xcite-plugin)
+- [nPose DayNight plugin](https://github.com/LeonaMorro/nPose-DayNight-plugin)
+- [nPose MovePrims RespectScale plugin](https://github.com/LeonaMorro/nPose-MovePrims-RespectScale-plugin)
