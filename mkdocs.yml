@@ -1,6 +1,0 @@
-site_name: Marshmallow Generator
-site_dir: _build
-docs_dir: docs
-
-nav:
-    - 'Simple Single Sitter': 'Simple-Single-Sitter.md'
