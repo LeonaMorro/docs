@@ -1,5 +1,8 @@
+Getting started
+===============
+
 Simple Single Sitter
-====================
+--------------------
 This document assumes that you have a basic understanding of editing and adjusting objects in world.
 This document also assumes that you have unpacked nPose Release and can be found in your inventory.  If not, the latest release can be found either on marketplace for free or at nPose HQ.
 
@@ -40,4 +43,51 @@ When the seated Avatar is in a position that suits your needs, copy the last lin
 This completes the nPose setup for a single sitter who is animated with "meditation" animation.
 
 To expand this nPose object and add more pose sets, add another animation to the nPose object and create another SET type notecard to drive this animation and follow the same instructions to add the contents as described above.  Add this notecard to the same nPose object and you will see another button when clicking for menu to select this pose.
+
+Adding Couples Sitters
+----------------------
+Adding a second seat to the nPose object is very simple.  Follow these instructions:
+* In the contents of the nPose object, edit the SET:Meditate notecard.
+* Add a second line to this notecard similar to the first.
+`  ANIM|meditation|<0.0, 0.0, 0.0>|<0.0, 0.0, 0.0>`
+* Save this notecard and it's ready for adjusting.
+
+**_(We are allowed to use the same animation for both seats.)_**
+
+When Utilities/Admin/Adjust is clicked a second Adjuster will be rezzed, one for each sitter.
+Change seats to move your Avatar to this second seat.  This can be done by adding another Utility notecard to the build (found in the nPose release folder in your inventory) called "BTN:Utilities:ChangeSeat-".
+
+Edit this adjuster and move your Avatar as described before to position this Avatar in the desired position.
+Copy the line in local and replace that second line in the SET:Meditate notecard.
+
+Now we have the simplest couples pose set built and ready for operation.
+
+Adding SCHMO
+------------
+
+SCHMO allows us to modify a seat in memory from a notecard.  The seats must already be setup with a normal SET type notecard with ANIM lines, then nPose will modify the seat for the menu user only.
+
+SCHMO works for single sitter modifications.  All seats can have a SCHMO line in a single notecard but only the menu user will change.
+
+For example we can use the following notecard for our DEFAULT:Meditate notecard:
+
+  `ANIM|meditation|<0.70354, 0.68508, 0.80000>|<0.00001, 0.00000, -135.00040>|`
+
+  `ANIM|meditation|<-0.75256, 0.73643, 0.80000>|<0.00001, 0.00000, -44.99962>|`
+
+  `ANIM|meditation|<-0.73697, -0.71104, 0.80000>|<0.00001, 0.00000, 44.99962>|`
+
+  `ANIM|meditation|<0.70354, -0.71104, 0.80000>|<0.00001, 0.00000, 135.00040>|`
+
+We can then add a second notecard by the name of SET:Stories and add the following lines:
+
+  `SCHMO|1|npose-storyteller|<0.70354, 0.68508, 0.80000>|<0.00001, 0.00000, -135.00040>|`
+
+  `SCHMO|2|npose-storyteller|<-0.75256, 0.73643, 0.80000>|<0.00001, 0.00000, -44.99962>|`
+
+  `SCHMO|3|npose-storyteller|<-0.73697, -0.71104, 0.80000>|<0.00001, 0.00000, 44.99962>|`
+
+  `SCHMO|4|npose-storyteller|<0.70354, -0.71104, 0.80000>|<0.00001, 0.00000, 135.00040>|`
+
+When the sitter in seat4 clicks the "Stories" menu button only that sitter will change poses.
 
