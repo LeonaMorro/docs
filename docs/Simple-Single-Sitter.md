@@ -1,3 +1,5 @@
+Simple Single Sitter
+====================
 This document assumes that you have a basic understanding of editing and adjusting objects in world.
 This document also assumes that you have unpacked nPose Release and can be found in your inventory.  If not, the latest release can be found either on marketplace for free or at nPose HQ.
 
