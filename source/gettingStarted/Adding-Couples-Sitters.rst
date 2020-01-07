@@ -5,7 +5,7 @@ Adding a second seat to the nPose object is very simple.  Follow these
 instructions:
 
 * In the contents of the nPose object, edit the SET:DEFAULT notecard.
-* Add a second line to this notecard similar to the first. |br|
+* Add a second line to this notecard similar to the first.
   ``ANIM|meditation|<0.0, 0.0, 0.0>|<0.0, 0.0, 0.0>``
 * Save this notecard and it's ready for adjusting.
 

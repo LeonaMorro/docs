@@ -31,11 +31,11 @@ One more item is needed to complete the nPose object and allow an Avatar to sit
 and use "meditate". Open the SET:DEFAULTCARD notecard and add a line to tell
 nPose which animation and where to position our Avatar:
 
-``ANIM|meditation|<0.0, 0.0, 0.0>|<0.0, 0.0, 0.0>``
+:code:`ANIM|meditation|<0.0, 0.0, 0.0>|<0.0, 0.0, 0.0>`
 
 Save this notecard and reset the scripts so that nPose scripts will read the
 .init notecard and load the SET:DEFAULTCARD.  See more about the .init notecard
-here: :doc:`NC-names`.
+here: :ref:`nc-names`.
 
 Now this object will be functional and anyone can sit this object.
 

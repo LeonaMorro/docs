@@ -17,3 +17,4 @@ can be found either on marketplace for free or at nPose HQ.
    Simple-Single-Sitter
    Adding-Couples-Sitters
    Adding-SCHMO
+   Adjusting-Poses

@@ -1,26 +1,33 @@
 /*versions box. very dark background */
 
 .wy-side-nav-search {
-    background: #790079;
-  }
+  background: #790079;
+}
   
-  a {
-    color: #802979;
-  }
+a {
+  color: #802979;
+}
   
-  a:visited {
-    color: #802979;
-  }
+a:visited {
+  color: #802979;
+}
   
-  .wy-side-nav-search input[type=text] {
-    border-color: #9824A4;
-  }
+.wy-side-nav-search input[type=text] {
+  border-color: #9824A4;
+}
   
-  .wy-side-scroll a, .wy-side-scroll:visited {
-    color: #FFC4FA;
-  }
+.wy-side-scroll a, .wy-side-scroll:visited {
+  color: #FFC4FA;
+}
   
-  .wy-nav-top {
-    background-color: #790079;
+.wy-nav-top {
+  background-color: #790079;
+}
+  .wy-nav-content {
+    max-width: 1024px;
+  }
+
+  .wy-table-responsive table th, .wy-table-responsive table td {
+    white-space: normal;
   }
   

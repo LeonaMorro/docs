@@ -6,4 +6,5 @@ Welcome to nPose V3 documentation!
    :caption: Contents:
 
    gettingStarted/Getting-started
+   reference/Reference
    NC-names
