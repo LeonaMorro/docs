@@ -52,4 +52,6 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 # User defined
-rst_prolog = open('global.rst', 'r').read()
+# rst_prolog = open('global.rst', 'r').read()
+# The master toctree document.
+master_doc = 'index'
