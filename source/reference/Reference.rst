@@ -4,7 +4,8 @@ Reference
 .. toctree::
    :maxdepth: 1
 
-   Setting-Global-Options
+   
+   Global-Options
    NC-Contents
    Placeholders
    Utility-Notecards
