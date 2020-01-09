@@ -1,4 +1,4 @@
-.. _MENUPROMPT:
+.. _c_MENUPROMPT:
 
 MENUPROMPT
 ^^^^^^^^^^

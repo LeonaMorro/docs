@@ -1,10 +1,10 @@
-.. _SATMSG:
+.. _c_SATMSG:
 
 SATMSG
 ^^^^^^
 
 .. warning::
-   Deprecated: use the command :ref:`ON_SIT` instead.
+   Deprecated: use the command :ref:`c_ON_SIT` instead.
 
 .. note::
   You need the `nPose SAT-NOTSAT Plugin`_ for this to work

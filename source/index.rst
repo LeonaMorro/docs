@@ -2,7 +2,7 @@ Welcome to nPose V3 documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    gettingStarted/Getting-started

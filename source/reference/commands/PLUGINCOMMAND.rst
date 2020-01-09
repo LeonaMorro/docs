@@ -1,4 +1,4 @@
-.. _PLUGINCOMMAND:
+.. _c_PLUGINCOMMAND:
 
 PLUGINCOMMAND
 ^^^^^^^^^^^^^

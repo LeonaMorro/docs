@@ -1,4 +1,4 @@
-.. _PLUGINMENU:
+.. _c_PLUGINMENU:
 
 PLUGINMENU
 ^^^^^^^^^^

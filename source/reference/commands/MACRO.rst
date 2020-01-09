@@ -1,4 +1,4 @@
-.. _MACRO:
+.. _c_MACRO:
 
 MACRO
 ^^^^^

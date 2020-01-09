@@ -1,4 +1,4 @@
-.. _ANIM:
+.. _c_ANIM:
 
 ANIM
 ^^^^
@@ -24,7 +24,7 @@ animation, positionVector, and and rotationVector) and the other elements are
 optional.
 
 The positionVector is an offset to either the root prim or the prim that the
-slave script is located in, depending on the global option :ref:`adjustRefRoot`.
+slave script is located in, depending on the global option :ref:`o_adjustRefRoot`.
 
 A line beginning with the key word ANIM will let the core know the rest of the
 line will contain information to animate and position an Avatar. More

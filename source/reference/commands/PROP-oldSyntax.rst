@@ -1,8 +1,10 @@
+.. _c_PROP_oldSyntax:
+
 PROP (oldSyntax)
 ^^^^^^^^^^^^^^^^
 
 .. warning::
-   Deprecated: use the command :ref:`PROP` instead.
+   Deprecated: use the command :ref:`c_PROP` instead.
 
 .. note::
    To use this command you need the `nPose Prop Plugin`_ <=V0.10

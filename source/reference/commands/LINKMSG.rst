@@ -1,4 +1,4 @@
-.. _LINKMSG:
+.. _c_LINKMSG:
 
 LINKMSG
 ^^^^^^^
@@ -27,5 +27,5 @@ and that prop needs time to rez and get scripts up and running before nPose
 sends a message to the prop (such as temp attach commands).
 
 .. note::
-   Try hard to not use the 'pauseTime' (it is evil), use the :ref:`TIMER`
+   Try hard to not use the 'pauseTime' (it is evil), use the :ref:`c_TIMER`
    command instead.

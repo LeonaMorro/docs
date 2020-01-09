@@ -1,9 +1,9 @@
-.. _SCHMO:
+.. _c_SCHMO:
 
 SCHMO
 ^^^^^
 
-.. _SCHMOE:
+.. _c_SCHMOE:
 
 SCHMOE
 ^^^^^^

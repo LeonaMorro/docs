@@ -1,4 +1,4 @@
-.. _PROPDIE:
+.. _c_PROPDIE:
 
 PROPDIE
 ^^^^^^^

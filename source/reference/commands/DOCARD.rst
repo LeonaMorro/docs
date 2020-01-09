@@ -1,4 +1,4 @@
-.. _DOCARD:
+.. _c_DOCARD:
 
 DOCARD
 ^^^^^^

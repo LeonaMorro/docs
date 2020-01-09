@@ -1,4 +1,4 @@
-.. _TIMER_REMOVE:
+.. _c_TIMER_REMOVE:
 
 TIMER_REMOVE
 ^^^^^^^^^^^^

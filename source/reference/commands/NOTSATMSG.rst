@@ -1,10 +1,10 @@
-.. _NOTSATMSG:
+.. _c_NOTSATMSG:
 
 NOTSATMSG
 ^^^^^^^^^
 
 .. warning::
-   Deprecated: use the command :ref:`ON_UNSIT` instead.
+   Deprecated: use the command :ref:`c_ON_UNSIT` instead.
 
 .. note::
   You need the `nPose SAT-NOTSAT Plugin`_ for this to work

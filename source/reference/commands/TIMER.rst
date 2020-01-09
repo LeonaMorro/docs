@@ -1,4 +1,4 @@
-.. _TIMER:
+.. _c_TIMER:
 
 TIMER
 ^^^^^

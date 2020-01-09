@@ -1,4 +1,4 @@
-.. _PROP:
+.. _c_PROP:
 
 PROP
 ^^^^

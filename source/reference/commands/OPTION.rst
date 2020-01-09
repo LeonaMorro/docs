@@ -1,4 +1,4 @@
-.. _OPTION:
+.. _c_OPTION:
 
 OPTION
 ^^^^^^
